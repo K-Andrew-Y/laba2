@@ -43,5 +43,7 @@ def main():
     print("Корень уравнения {:.5f} найден с точностью {:.4f} за {} итерации".format(
         x_next, eps, n))
 
+print ("Андрей")
+
 if __name__ == "__main__":
     main()
